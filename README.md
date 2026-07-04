@@ -55,7 +55,7 @@ Then Run All from the top.
 
 ```
 .
-├── ML_Project (1).ipynb            main notebook (EDA → preprocessing → training → eval)
+├── DiabetesPrediction.ipynb            main notebook (EDA → preprocessing → training → eval)
 ├── diabetes.csv                    dataset (768 × 9)
 ├── requirements.txt
 ├── README.md
