@@ -46,7 +46,7 @@ cd Diabetes-Prediction
 python -m venv .venv
 # Windows: .venv\Scripts\activate     | Unix: source .venv/bin/activate
 pip install -r requirements.txt
-jupyter notebook "ML_Project (1).ipynb"
+jupyter notebook "DiabetesPrediction.ipynb"
 ```
 
 Then Run All from the top.
